@@ -1,5 +1,5 @@
-##machinelearninggg
-# If you can share, you know what it is.
+# machinelearninggg
+## If you can share, you know what it is.
 
 This is a repository for my personal Facebook and Youtube page called "machinelearninggg".
 I intend to share my knowledge in Machine learning for Data scientist which I have learnt from my experience and my MDS program at UBC.
@@ -8,8 +8,7 @@ Therefore, knowledge in this repository is explicitly credited to the Master of 
 I fully recommend you to check the MDS program if you are looking into an intensive and comprehensive study in data science, I do love the program 100%, cheers!!
 
 The Facebook and Youtube channel "machinelearninggg"" can be found
-[here](https://www.facebook.com/machinelearninggg).
-[here](https://www.facebook.com/machinelearninggg).
+[here](https://www.facebook.com/machinelearninggg) and [here](https://www.facebook.com/machinelearninggg).
 
 ## Usage
 
@@ -22,7 +21,7 @@ Navigate to your local repository and prompt the command line and run:
 ```
 conda env create --file fbml_project.yaml
 ```
-The new environment fbml_project will be created in your conda environment, and we will use this as the main environment to run the analysis.
+The new environment ```fbml_project``` will be created in your conda environment, and we will use this as the main environment to run the analysis.
 
 Activate the new environment by:
 ```
@@ -38,7 +37,7 @@ The Python and Python packages can be found
 
 ## License
 
-**MIT License** Copyright (c) 2022 Nate Puangpanbut
+**MIT License** Copyright (c) 2022 Suraporn Puangpanbut/Nate Puangpanbut
 
 Permission is hereby granted, free of charge, to any person obtaining a
 copy of this software and associated documentation files (the
